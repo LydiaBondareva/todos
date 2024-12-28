@@ -1,0 +1,28 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  font-size: 20px;
+}
+
+table td, table th{
+  border-radius: 10px;
+  background-color: #f3c4fb;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+
+table th{
+  background-color: #d8bbff;
+
+}
+
+.date{
+  cursor: pointer;
+}
