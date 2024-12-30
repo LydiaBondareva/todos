@@ -2,7 +2,7 @@
 export const data = [
     {
         todo:'Помыть пол',
-        frequency:'21 день'
+        frequency:'14 дней'
     },
     {
         todo:'Поменять фильтр',
@@ -14,10 +14,18 @@ export const data = [
     },
     {
         todo:'Помыть унитаз',
-        frequency:'30 дней'
+        frequency:'23 дня'
     },
     {
         todo:'Протереть пыль',
-        frequency:'30 дней'
+        frequency:'23 дня'
+    },
+    {   
+        todo:'Помыть раковину',
+        frequency:'23 дня'
+    }
+    {   
+        todo:'Помыть ведро для мусора',
+        frequency:'23 дня'
     }
 ]
