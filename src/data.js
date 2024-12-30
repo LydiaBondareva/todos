@@ -23,7 +23,7 @@ export const data = [
     {   
         todo:'Помыть раковину',
         frequency:'23 дня'
-    }
+    },
     {   
         todo:'Помыть ведро для мусора',
         frequency:'23 дня'
